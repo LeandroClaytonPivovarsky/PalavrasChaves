@@ -15,7 +15,8 @@ Para que rode no seu computador é necessário:
 Projeto não foi idealizado por mim, o link para tal está <a href="https://www.freecodecamp.org/news/how-to-build-a-keyword-density-tool-with-laravel/">aqui</a>
 
 
-
+<h2>Descrição que o Laravel faz por padrão</h2>
+Não vou apagar, se tiver interesse na ferramenta, não hesite em ler as informações abaixo!!
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
