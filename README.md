@@ -12,7 +12,11 @@ Para que rode no seu computador é necessário:
     <li>Ter o XAMPP instalado</li>
 </ul>
 
-Projeto não foi idealizado por mim, o link para tal está <a href="https://www.freecodecamp.org/news/how-to-build-a-keyword-density-tool-with-laravel/">aqui</a>
+Ainda faltam alguns erros para arrumar que eu estarei trabalhando nisso, em uma "homepage" e na funcionalidade dos botões do header.
+Sei que não são adições difícies(não são pra ser) e tentarei realizá-las nas próximas atualizações.
+
+
+Este projeto não foi idealizado por mim, o link para tal caso queira fazer por si só está <a href="https://www.freecodecamp.org/news/how-to-build-a-keyword-density-tool-with-laravel/">aqui</a>
 
 
 <h2>Descrição que o Laravel faz por padrão</h2>
