@@ -12,6 +12,9 @@ Para que rode no seu computador é necessário:
     <li>Ter o XAMPP instalado</li>
 </ul>
 
+<h3>Aqui está um GIF do funcionamento do app</h3>
+<img src="./public/assets/VerificadordePalavrasChaves.gif">
+
 Ainda faltam alguns erros para arrumar que eu estarei trabalhando nisso, em uma "homepage" e na funcionalidade dos botões do header.
 Sei que não são adições difícies(não são pra ser) e tentarei realizá-las nas próximas atualizações.
 
