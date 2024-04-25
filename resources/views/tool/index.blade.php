@@ -12,6 +12,8 @@
             Veja a quantidade de palavras chave
         </button>
     </form>
+
+    <a href=""></a>
 @endsection
 
 @section('scripts')
