@@ -1,3 +1,26 @@
+<h1>Projeto de medidor de Palavras Chaves em Textos ou códigos</h1>
+
+Projeto com pretensão de aprimorar os conhecimentos em Laravel
+
+Se baseia em um contador e verificador de densidades de palavras em textos e códigos a fim de 
+saber quais são as palavras mais decorrentes dentre o texto digitado no campo de texto disponibilizado na página '/tool'.
+
+Para que rode no seu computador é necessário:
+<ul>
+    <li>Tenha o composer instalado</li>
+    <li>Tenha Laravel instalado</li>
+    <li>Ter o XAMPP instalado</li>
+</ul>
+
+Ainda faltam alguns erros para arrumar que eu estarei trabalhando nisso, em uma "homepage" e na funcionalidade dos botões do header.
+Sei que não são adições difícies(não são pra ser) e tentarei realizá-las nas próximas atualizações.
+
+
+Este projeto não foi idealizado por mim, o link para tal caso queira fazer por si só está <a href="https://www.freecodecamp.org/news/how-to-build-a-keyword-density-tool-with-laravel/">aqui</a>
+
+
+<h2>Descrição que o Laravel faz por padrão</h2>
+Não vou apagar, se tiver interesse na ferramenta, não hesite em ler as informações abaixo!!
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
